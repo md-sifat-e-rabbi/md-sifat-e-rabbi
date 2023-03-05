@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD ZAFIR ALVI</h1>
+<h1 align="center">Hi, I'm MD.SIFAT-E-RABBI</h1>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Full+Stack+Developer+%26+SQA;Engineer+from+Bangladesh."
@@ -9,17 +9,17 @@
     src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=zafir100100&label=Profile%20views&color=0e75b6&style=flat"
-        alt="zafir100100" />
+    <img src="https://komarev.com/ghpvc/?username=md-sifat-e-rabbi&label=Profile%20views&color=0e75b6&style=flat"
+        alt="md-sifat-e-rabbi" />
 </p>
 
 - 🔭 I’m currently working on **Full stack development, manual and automation testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/md-sifat-e-rabbi?tab=repositories](https://github.com/md-sifat-e-rabbi?tab=repositories)
 
 - 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
 
-- 📫 How to reach me **muhammad.zafir.alvi.official@gmail.com**
+- 📫 How to reach me **md.sifat.e.rabbi.official@gmail.com**
 
 <br>
 
@@ -27,15 +27,15 @@
     Connect with me:
 </h3>
 <p align="center">
-    <a href="https://github.com/zafir100100" target="blank">
+    <a href="https://github.com/md-sifat-e-rabbi" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="zafir100100" height="30" width="40" />
+            alt="md-sifat-e-rabbi" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/zafir100100" target="blank">
+    <a href="https://www.linkedin.com/in/md-sifat-e-rabbi" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="zafir100100" height="30" width="40" />
+            alt="md-sifat-e-rabbi" height="30" width="40" />
     </a>
 </p>
 
@@ -146,15 +146,15 @@
             alt="oracle" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
+        <img src="https://github.com/md-sifat-e-rabbi/md-sifat-e-rabbi/blob/main/resources/postgres.png"
             alt="postgres" width="80" height="40" />
     </a>
     <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mssql.jpg"
+        <img src="https://github.com/md-sifat-e-rabbi/md-sifat-e-rabbi/blob/main/resources/mssql.jpg"
             alt="mssql" width="80" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
+        <img src="https://github.com/md-sifat-e-rabbi/md-sifat-e-rabbi/blob/main/resources/mysql.png"
             alt="mysql" width="120" height="40" />
     </a>
 </p>
@@ -214,15 +214,15 @@
 
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=zafir100100&show_icons=true&locale=en&layout=compact&theme=dark"
-        alt="zafir100100">
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sifat-e-rabbi&show_icons=true&locale=en&layout=compact&theme=dark"
+        alt="md-sifat-e-rabbi">
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=zafir100100&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
-        alt="zafir100100">
+        src="https://github-readme-stats.vercel.app/api?username=md-sifat-e-rabbi&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
+        alt="md-sifat-e-rabbi">
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafir100100&theme=merko"
-        alt="zafir100100">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
+        alt="md-sifat-e-rabbi">
 </p>
