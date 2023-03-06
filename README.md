@@ -33,7 +33,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="md-sifat-e-rabbi" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/md-sifat-e-rabbi" target="blank">
+    <a href="https://www.linkedin.com/in/md-sifat-e-rabbi-08ab76268/" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="md-sifat-e-rabbi" height="30" width="40" />
