@@ -43,7 +43,7 @@
 <h3 align="left">
     Languages and Tools:
 </h3>
-<p align="left" background-color="orangered">
+<p align="left" background="red">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" />
