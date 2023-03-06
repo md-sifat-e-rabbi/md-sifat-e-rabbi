@@ -88,10 +88,11 @@
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://as2.ftcdn.net/v2/jpg/01/08/48/11/1000_F_108481165_FifFytnonMKfIyw9s6vKza1rWAczeJOk.jpg" 
+        <img src="https://icons8.com/icon/NfbyHexzVEDk/react" 
              alt="React" 
              class="shrinkToFit" width="40" height="40">
     </a>
+    
     
 </p>
 
