@@ -92,6 +92,11 @@
              alt="React" 
              class="shrinkToFit" width="40" height="40">
     </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://as1.ftcdn.net/v2/jpg/04/95/82/72/1000_F_495827259_kqYqKFSH8c7LWJqHvC9NWzVqfgcLxTjx.jpg"  
+             alt="jQuery" 
+             class="shrinkToFit" width="40" height="40">
+    </a>
     
     
     
