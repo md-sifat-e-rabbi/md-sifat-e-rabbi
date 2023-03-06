@@ -89,7 +89,7 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/react.svg"
-            alt="react" width="40" height="40" />
+            alt="react" width="40" height="40" color="blue" />
     </a>
     
 </p>
