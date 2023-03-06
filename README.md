@@ -88,8 +88,8 @@
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://as1.ftcdn.net/v2/jpg/00/61/63/68/1000_F_61636887_9XnC5xEVVQeozSweJky2HM65Nu0ekcek.jpg" 
-             alt="https://as1.ftcdn.net/v2/jpg/00/61/63/68/1000_F_61636887_9XnC5xEVVQeozSweJky2HM65Nu0ekcek.jpg" 
+        <img src="https://as2.ftcdn.net/v2/jpg/01/08/48/11/1000_F_108481165_FifFytnonMKfIyw9s6vKza1rWAczeJOk.jpg" 
+             alt="React" 
              class="shrinkToFit" width="40" height="40">
     </a>
     
