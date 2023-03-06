@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <span class="wave">👋</span> I'm MD. SIFAT-E-RABBI</h1>
+<h1 align="center">Hi, <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png 2x" alt="Waving Hand on Microsoft Teams 1.0" width="120" height="120"> I'm MD. SIFAT-E-RABBI</h1>
 
 
 <a href="https://git.io/typing-svg">
