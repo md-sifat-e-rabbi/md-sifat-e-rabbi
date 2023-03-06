@@ -14,11 +14,11 @@
         alt="md-sifat-e-rabbi" />
 </p>
 
-- 🔭 I’m currently working on **Full stack development, manual and automation testing**
+- 🔭 I’m currently working on **Frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/md-sifat-e-rabbi?tab=repositories](https://github.com/md-sifat-e-rabbi?tab=repositories)
 
-- 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
+- 💬 Ask me about **Frontend development, Responsive web designing, UI/UX Designing, PSD to HTML.**
 
 - 📫 How to reach me **md.sifat.e.rabbi.official@gmail.com**
 
