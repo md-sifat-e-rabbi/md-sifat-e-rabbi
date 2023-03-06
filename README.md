@@ -87,6 +87,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="css3" width="40" height="40" />
     </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://example.com/fontawesome/v6.3.0/js/brands.js"
+            alt="css3" width="40" height="40" />
+    </a>
+    
     <script src="https://example.com/fontawesome/v6.3.0/js/brands.js"></script>
 </p>
 
