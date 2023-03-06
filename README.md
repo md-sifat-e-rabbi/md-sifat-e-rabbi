@@ -88,7 +88,7 @@
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <i class="fas fa-link">My Link</i>
+        <i class="fa fa-link">My Link</i>
     </a>
     
 </p>
