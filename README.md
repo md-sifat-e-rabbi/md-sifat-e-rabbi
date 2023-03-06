@@ -88,8 +88,8 @@
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/jquery-original.svg"
-            alt="css3" width="40" height="40" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/react.svg"
+            alt="react" width="40" height="40" />
     </a>
     
 </p>
