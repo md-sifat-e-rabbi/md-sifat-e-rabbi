@@ -140,8 +140,9 @@
             alt="power-point" width="40" height="40" />
     </a>
     <a href="https://www.google.com/docs/about/" tarhet="_blank" rel="noreferrer">
-     HI
-    </a>
+         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
+           alt="google-docs" width="40" height="40" />
+        </a>
 
 </p>
 
