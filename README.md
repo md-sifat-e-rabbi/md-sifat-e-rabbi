@@ -124,11 +124,11 @@
 
 
 <h3 align="left">
-    SQA Tools:
+    Office Tools:
 </h3>
 <p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+        <img src="https://img.icons8.com/color/512/ms-word.png" alt="word" width="40"
             height="40" />
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
