@@ -139,6 +139,9 @@
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
             alt="power-point" width="40" height="40" />
     </a>
+    <a href="https://www.google.com/docs/about/" tarhet="_blank" rel="noreferrer">
+     HI
+    </a>
 
 </p>
 
