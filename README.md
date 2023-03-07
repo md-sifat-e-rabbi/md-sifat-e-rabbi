@@ -182,7 +182,7 @@
         alt="md-sifat-e-rabbi">
 </p>
 <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
+    <img align="left" margin-top="5px" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
         alt="md-sifat-e-rabbi">
 </p>
                                             
