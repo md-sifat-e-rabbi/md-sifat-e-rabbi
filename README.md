@@ -163,7 +163,7 @@
     </a>
      <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-slides.png"
-            alt="gslides" width="40" height="40" />
+            alt="google-slides" width="40" height="40" />
     </a>
 </p>
 
