@@ -144,8 +144,8 @@
             alt="googlesheets" width="50" height="35" />
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-        <img src="http://jmeter.apache.org/images/jmeter.png"
-            alt="Jmeter" width="120" height="40" />
+        <img src="https://img.icons8.com/fluency/512/google-sheets.png"
+            alt="googlesheets" width="120" height="40" />
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
