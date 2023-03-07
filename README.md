@@ -181,8 +181,8 @@
         src="https://github-readme-stats.vercel.app/api?username=md-sifat-e-rabbi&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
         alt="md-sifat-e-rabbi">
 </p>
-<p>
-    <img align="left" margin-top="5px" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
+<p style="margin-top: 20px">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
         alt="md-sifat-e-rabbi">
 </p>
                                             
