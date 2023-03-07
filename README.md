@@ -97,40 +97,6 @@
              alt="jQuery" width="40" height="40">
     </a>
     
-    
-    
-</p>
-
-
-<h3 align="left">
-    Back-End Tools & Frameworks:
-</h3>
-<p align="left">
-    <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://go.dev" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" />
-    </a>
-</p>
-
-
-<h3 align="left">
-    Mobile App Development:
-</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-            alt="androidstudio" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
-            alt="ionic" width="40" height="40" />
-    </a>
 </p>
 
 
