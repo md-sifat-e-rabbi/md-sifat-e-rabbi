@@ -113,7 +113,7 @@
             alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/microsoft-sql-server.png"
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mssql.jpg"
             alt="mssql-server" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
