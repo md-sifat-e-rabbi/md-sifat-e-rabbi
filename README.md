@@ -139,13 +139,7 @@
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
             alt="power-point" width="40" height="40" />
     </a>
-</p>
 
-
-<h3 align="left">
-    Google Tools:
-</h3>
-<p align="left">
     <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
             alt="googledocs" width="40" height="40" />
