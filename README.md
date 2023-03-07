@@ -177,7 +177,7 @@
 </p>
 
 <p>
-    <img align="right"
+    <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sifat-e-rabbi&show_icons=true&locale=en&layout=compact&theme=dark"
         alt="md-sifat-e-rabbi">
 </p>
@@ -187,7 +187,7 @@
         alt="md-sifat-e-rabbi">
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sifat-e-rabbi&theme=merko"
         alt="md-sifat-e-rabbi">
 </p>
                                             
