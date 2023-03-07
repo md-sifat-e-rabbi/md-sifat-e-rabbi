@@ -113,8 +113,8 @@
             alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/arcade/1x/sql.png"
-            alt="sql" width="40" height="40" />
+        <img src="https://img.icons8.com/nolan/512/oracle-logo.png"
+            alt="oracle" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/plasticine/512/postgreesql.png"
