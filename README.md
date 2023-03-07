@@ -136,8 +136,8 @@
             alt="excel" width="40" height="40" />
     </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"
-            alt="JUnit" width="40" height="40" />
+        <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
+            alt="powerpoint" width="40" height="40" />
     </a>
     <a href="https://testng.org" target="_blank" rel="noreferrer">
         <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png"
