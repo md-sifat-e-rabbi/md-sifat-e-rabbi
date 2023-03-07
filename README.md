@@ -112,14 +112,15 @@
         <img src="https://img.icons8.com/fluency/512/mysql-logo.png"
             alt="mysql" width="40" height="40" />
     </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+            alt="oracle" width="40" height="40" />
+    </a>
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mssql.jpg"
             alt="mssql-server" width="40" height="40" />
     </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/oracle-logo.png"
-            alt="oracle" width="40" height="40" />
-    </a>
+    
 </p>
 
 
