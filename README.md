@@ -109,7 +109,7 @@
 </h3>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/fluency/512/mysql-logo.png"
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
             alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
