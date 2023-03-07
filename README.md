@@ -141,7 +141,7 @@
     </a>
     <a href="https://testng.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
-            alt="googlesheets" width="50" height="40" />
+            alt="googlesheets" width="50" height="35" />
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
         <img src="http://jmeter.apache.org/images/jmeter.png"
