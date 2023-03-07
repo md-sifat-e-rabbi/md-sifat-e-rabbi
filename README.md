@@ -139,6 +139,20 @@
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
             alt="powerpoint" width="40" height="50" />
     </a>
+    
+     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/external-others-inmotus-design/512/external-Adobe-Acrobat-applications-and-programs-others-inmotus-design.png"
+            alt="adobeAcrobat" width="40" height="40" />
+    </a>
+    
+    
+</p>
+
+
+<h3 align="left">
+    Google Tools:
+</h3>
+<p align="left">
     <a href="https://testng.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
             alt="googledocs" width="40" height="40" />
@@ -150,22 +164,6 @@
      <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-slides.png"
             alt="gslides" width="40" height="40" />
-    </a>
-     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/external-others-inmotus-design/512/external-Adobe-Acrobat-applications-and-programs-others-inmotus-design.png"
-            alt="adobeAcrobat" width="40" height="40" />
-    </a>
-    
-    
-</p>
-
-
-<h3 align="left">
-    Prototyping Tools:
-</h3>
-<p align="left">
-    <a href="https://helpx.adobe.com/xd" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="figma" width="40" height="40" />
     </a>
 </p>
 
