@@ -108,17 +108,21 @@
     Databases:
 </h3>
 <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
-            alt="mysql" width="120" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" />
     </a>
-    <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
+            alt="postgres" width="80" height="40" />
+    </a>
+    <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mssql.jpg"
-            alt="mssql-server" width="80" height="40" />
+            alt="mssql" width="80" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
+            alt="mysql" width="120" height="40" />
     </a>
     
 </p>
