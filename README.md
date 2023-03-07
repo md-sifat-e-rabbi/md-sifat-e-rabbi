@@ -1,11 +1,11 @@
 <h1 align="center">Hi,<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png 2x" alt="Waving Hand on Microsoft Teams 1.0" width="60" height="60"> I'm MD. SIFAT-E-RABBI</h1>
 
-<p3 align="center">
+<p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=2500&pause=2000&color=9AAD24&vCenter=true&multiline=true&             width=475&height=60&lines=A+passionate+Frontend++Developer+from+Bangladesh."
             alt="Typing SVG" />
     </a>
-</p3>
+</p>
 
 <img align="right" alt="Coding" width="300"
     src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
