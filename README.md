@@ -109,8 +109,8 @@
 </h3>
 <p align="left">
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" />
+        <img src="https://img.icons8.com/ios-filled/512/mysql.png"
+            alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/md-sifat-e-rabbi/md-sifat-e-rabbi/blob/main/resources/postgres.png"
