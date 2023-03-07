@@ -96,7 +96,7 @@
         <img src="https://as1.ftcdn.net/v2/jpg/04/95/82/72/1000_F_495827259_kqYqKFSH8c7LWJqHvC9NWzVqfgcLxTjx.jpg" 
              alt="jQuery" width="40" height="40">
     </a>
-    <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer">
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/512/canva.png" 
              alt="canva" width="40" height="40">
     </a>
