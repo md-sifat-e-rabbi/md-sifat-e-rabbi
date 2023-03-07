@@ -108,7 +108,7 @@
     Databases:
 </h3>
 <p align="left">
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" color="red">
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" background="red">
         <img src="https://img.icons8.com/ios-filled/512/mysql.png"
             alt="mysql" width="40" height="40" />
     </a>
