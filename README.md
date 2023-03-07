@@ -83,7 +83,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
             alt="html5" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://as2.ftcdn.net/v2/jpg/05/46/26/87/1000_F_546268711_DJZTpEVM4P2QxzbidwoLLHtc5q8ICLIh.jpg"  
              alt="React" 
              class="shrinkToFit" width="40" height="40">
