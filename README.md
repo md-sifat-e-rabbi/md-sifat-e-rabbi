@@ -137,15 +137,8 @@
     </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
-            alt="powerpoint" width="40" height="50" />
+            alt="power-point" width="40" height="50" />
     </a>
-    
-     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/external-others-inmotus-design/512/external-Adobe-Acrobat-applications-and-programs-others-inmotus-design.png"
-            alt="adobeAcrobat" width="40" height="40" />
-    </a>
-    
-    
 </p>
 
 
