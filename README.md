@@ -146,15 +146,15 @@
     Google Tools:
 </h3>
 <p align="left">
-    <a href="https://testng.org" target="_blank" rel="noreferrer">
+    <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
             alt="googledocs" width="40" height="40" />
     </a>
-    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/fluency/512/google-sheets.png"
             alt="googlesheets" width="40" height="40" />
     </a>
-     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+     <a href="https://www.google.com/slides/about/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-slides.png"
             alt="google-slides" width="40" height="40" />
     </a>
