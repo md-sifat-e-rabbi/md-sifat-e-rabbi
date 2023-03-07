@@ -109,7 +109,7 @@
 </h3>
 <p align="left">
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/ios-filled/512/mysql.png"
+        <img src="https://img.icons8.com/ios-filled/512/mysql.png" style="color: red"
             alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
