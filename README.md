@@ -128,16 +128,16 @@
 </h3>
 <p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/ms-word.png" alt="word" width="50"
+        <img src="https://img.icons8.com/color/512/ms-word.png" alt="word" width="40"
             height="50" />
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-excel.png"
-            alt="excel" width="50" height="50" />
+            alt="excel" width="40" height="50" />
     </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
-            alt="powerpoint" width="50" height="50" />
+            alt="powerpoint" width="40" height="50" />
     </a>
     <a href="https://testng.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/google-docs--v2.png"
