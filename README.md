@@ -117,7 +117,7 @@
             alt="sql" width="80" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/ios-filled/512/postgreesql.png"
+        <img src="https://img.icons8.com/plasticine/512/postgreesql.png"
             alt="postgre" width="80" height="40" />
     </a>
 </p>
