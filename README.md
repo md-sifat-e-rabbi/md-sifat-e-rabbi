@@ -155,34 +155,11 @@
 </p>
 
 <h3 align="left">
-    Google Tools Tools:
-</h3>
-<p align="left">
-    <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/google-docs--v2.png"
-            alt="googledocs" width="40" height="40" />
-    </a>
-    <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/fluency/512/google-sheets.png"
-            alt="googlesheets" width="40" height="40" />
-    </a>
-     <a href="https://www.google.com/slides/about/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/google-slides.png"
-            alt="googleslide" width="40" height="40" />
-    </a>
-    
-</p>
-
-
-<h3 align="left">
     Version Controlling:
 </h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/512/github.png" alt="git" width="40" height="40" />
     </a>
 </p>
 
