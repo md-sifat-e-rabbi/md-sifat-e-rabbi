@@ -127,15 +127,15 @@
     Office Tools:
 </h3>
 <p align="left">
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-ww/microsoft-365/word?market=bd" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-word.png" alt="word" width="40"
             height="40" />
     </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-ww/microsoft-365/word?market=bd" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-excel.png"
             alt="excel" width="40" height="40" />
     </a>
-    <a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-ww/microsoft-365/word?market=bd" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/512/ms-powerpoint--v1.png"
             alt="power-point" width="40" height="40" />
     </a>
