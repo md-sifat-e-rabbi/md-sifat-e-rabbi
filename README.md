@@ -17,7 +17,8 @@
 
 - 🔭 I’m currently working on **Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/md-sifat-e-rabbi?tab=repositories](https://github.com/md-sifat-e-rabbi?tab=repositories)
+- <img src="https://img.icons8.com/clouds/1x/monitor.png" alt="monitor">
+-  All of my projects are available at [https://github.com/md-sifat-e-rabbi?tab=repositories](https://github.com/md-sifat-e-rabbi?tab=repositories)
 
 - 💬 Ask me about **Frontend development, Responsive web designing, UI/UX Designing, PSD to HTML.**
 
